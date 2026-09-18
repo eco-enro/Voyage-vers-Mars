@@ -18,7 +18,7 @@ Par choix éthique et citoyen, ce jeu est entièrement **NON COMMERCIAL**. Son c
 
 ## 📦 Télécharger le jeu (Print & Play)
 
-Pour tester le jeu, rendez-vous dans la section **[Releases](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)** à droite de cette page pour télécharger les fichiers haute définition :
+Pour tester le jeu, rendez-vous dans la section **[Releases](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)** pour télécharger les fichiers haute définition :
 
 1. **Version PUZZLE :** Les cartes sont mélangées. Idéal pour une découverte classique où les adversaires devront d'abord redécouvrir les enchaînements logiques et y remettre un ordre systémique.
 2. **Version BD :** Le jeu se dévoile directement dans l'ordre logique pour l'évaluateur impatient.
@@ -44,4 +44,4 @@ Ce jeu, comprenant son livret de règles, les textes de ses cartes et sa charte 
 *   **Usage Personnel et Gratuit :** Vous êtes encouragé à télécharger, imprimer, jouer et partager gratuitement ce jeu dans un cadre strictement privé ou associatif non lucratif, à condition de citer l'auteur original (Dominique Dutoit) et de ne pas modifier l'œuvre.
 *   **Cadre Commercial ou Institutionnel :** Toute reproduction ou distribution à des fins commerciales, publicitaires, ou générant une compensation financière directe ou indirecte est **STRICTEMENT INTERDITE** sans l'accord écrit de l'auteur.
 
-📧 Contact pour les structures, ONG ou éditeurs engagés : **contact@eco-enro.org** 
+📧 Contact pour les structures, ONG ou éditeurs engagés : **contact@eco-enro.org**             
