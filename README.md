@@ -1,3 +1,7 @@
+<img width="2480" height="3508" alt="planche_A4_page_5" src="https://github.com/user-attachments/assets/19420d26-d716-4553-8913-dd4d1da5634b" /> (planche 1/13 du jeu Voyage vers Mars)
+
+
+
 # 🚀 VOYAGE VERS MARS
 [![Téléchargements du jeu](https://shields.io)](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)
 
