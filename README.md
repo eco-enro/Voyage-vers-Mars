@@ -23,6 +23,8 @@ Par choix éthique et citoyen, ce jeu est entièrement **NON COMMERCIAL**. Son c
 *   **Vous êtes un citoyen, un enseignant, un joueur, un fresqueur ?**  
     Le jeu vous appartient. Téléchargez le kit "Print & Play" gratuitement, imprimez-le, découpez-le et jouez-y en famille, en classe ou entre amis. Échouez collectivement, triomphez en solitaire, mais apprenez et riez de l'absurdité de nos contradictions.
 
+<img width="149" height="208" alt="carte_verso_poker - 20%" src="https://github.com/user-attachments/assets/b1ebe3a7-10d1-4b37-99c5-cf724cb3af6f" />
+
 ---
 
 ## 📦 Télécharger le jeu (Print & Play)
