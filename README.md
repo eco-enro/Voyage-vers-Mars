@@ -10,11 +10,13 @@
 > ⏳ *Durée d’une partie : 30 minutes à 4 heures* | 👥 *Âge : dès 14 ans*
 
 ---
-<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
+
 
 ## 褃 Manifeste d'Intention : LA PHYSIQUE NE SE NÉGOCIE PAS
 
-"Voyage vers Mars" est né d’un constat : les débats écologiques actuels s'égarent trop souvent dans la polémique d'opinion et la promesse technologique. Nous avons voulu créer un jeu qui s'appuie exclusivement sur la métrologie et les consensus physiques indiscutables, tout en s'amusant de la mauvaise foi de nos propres systèmes économiques.
+"Voyage vers Mars" est né du constat que les débats écologiques actuels s'égarent trop souvent dans la polémique d'opinion et la promesse technologique. Nous avons voulu créer un jeu qui s'appuie exclusivement sur la métrologie et les consensus physiques indiscutables, tout en s'amusant de notre propre mauvaise foi.
+
+<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
 
 Par choix éthique et citoyen, ce jeu est entièrement **NON COMMERCIAL**. Son code source est ouvert, sa diffusion est libre, et son intégrité est protégée.
 
