@@ -1,5 +1,5 @@
 
-<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
+
 
 
 
@@ -10,6 +10,7 @@
 > ⏳ *Durée d’une partie : 30 minutes à 4 heures* | 👥 *Âge : dès 14 ans*
 
 ---
+<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
 
 ## 褃 Manifeste d'Intention : LA PHYSIQUE NE SE NÉGOCIE PAS
 
