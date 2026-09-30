@@ -1,4 +1,5 @@
-<img width="2480" height="3508" alt="planche_A4_page_5" src="https://github.com/user-attachments/assets/19420d26-d716-4553-8913-dd4d1da5634b" /> (planche 1/13 du jeu Voyage vers Mars)
+
+<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
 
 
 
