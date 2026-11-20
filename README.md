@@ -1,8 +1,3 @@
-
-
-
-
-
 # 🚀 VOYAGE VERS MARS
 [![Téléchargements du jeu](https://shields.io)](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)
 
@@ -10,8 +5,6 @@
 > ⏳ *Durée d’une partie : 30 minutes à 4 heures* | 👥 *Âge : dès 14 ans*
 
 ---
-
-
 ## 褃 Manifeste d'Intention : LA PHYSIQUE NE SE NÉGOCIE PAS
 
 "Voyage vers Mars" est né du constat que les débats écologiques actuels s'égarent trop souvent dans la polémique d'opinion et la promesse technologique. Nous avons voulu créer un jeu qui s'appuie exclusivement sur la métrologie et les consensus physiques indiscutables, tout en s'amusant de notre propre mauvaise foi.
