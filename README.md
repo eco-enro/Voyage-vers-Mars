@@ -24,10 +24,15 @@ Par choix éthique et citoyen, ce jeu est entièrement **NON COMMERCIAL**. Son c
 
 ## 📦 Télécharger le jeu (Print & Play)
 
-Pour tester le jeu, rendez-vous dans la section **[Releases](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)** pour télécharger les fichiers haute définition :
+Le jeu complet décrit 4 époques  :
+- l'époque actuelle dite "Avant". <a href ="https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/Avant-2026-1">Téléchargement</a>
+- 2040
+- 2051
+- 2076
 
-1. **Version PUZZLE :** Les cartes sont mélangées. Idéal pour une découverte classique où les adversaires devront d'abord redécouvrir les enchaînements logiques et y remettre un ordre systémique.
-2. **Version BD :** Le jeu se dévoile directement dans l'ordre logique pour l'évaluateur impatient.
+Chaque époque a ses propres règles. Pour comprendre la logique des époques, l'évolution des technologies, habitabilité et mentalités, il est fortement recommandé de débuter par l'époque actuelle.
+Pour chaque époque , vous pourrez télécharger les fichiers pdf 300 dpi du jeu avec des cartes triées, se prêtant à une lecture de **découverte** (sorted, BD) ou en mode **mélangé** (puzzle, shuffle), réservant la découverte au moment de votre immersion dans une première partie avec vos amis.
+
 
 ---
 
