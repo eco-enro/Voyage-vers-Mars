@@ -1,7 +1,7 @@
 # 🚀 VOYAGE VERS MARS
 
 
-[![Téléchargements du jeu](https://shields.io)](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/jeudecartes)
+[![Téléchargements du jeu](https://shields.io)](**[Releases](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/Avant-2026-1))
 
 > **Un jeu de cartes stratégique, narratif et métrologique pour 2 à 6 joueurs.**  
 > ⏳ *Durée d’une partie : 30 minutes à 4 heures* | 👥 *Âge : dès 14 ans*
@@ -9,16 +9,16 @@
 ---
 ## 褃 Manifeste d'Intention : LA PHYSIQUE NE SE NÉGOCIE PAS
 
-"Voyage vers Mars" est né du constat que les débats écologiques actuels s'égarent trop souvent dans la polémique d'opinion et la promesse technologique. Nous avons voulu créer un jeu qui s'appuie exclusivement sur la métrologie et les consensus physiques indiscutables, tout en s'amusant de notre propre mauvaise foi.
+"Voyage vers Mars" est né du constat que les débats écologiques actuels s'égarent trop souvent dans la polémique d'opinion et la promesse technologique. Nous avons voulu créer un jeu qui s'appuie exclusivement sur la métrologie et les consensus physiques indiscutables, tout en s'amusant de notre propre mauvaise foi et de leurs conséquences possibles pour les époques futures.
 
-<img width="496" height="702" alt="planche_A4_page_5_20%" src="https://github.com/user-attachments/assets/c04e5b1c-229a-432d-b58b-9a29950eb9d0" />
+<img width="496" height="702" alt="competence 1-Avant-2026" src="https://github.com/eco-enro/Voyage-vers-Mars/releases/download/Avant-2026-1/extrait1.png" />
 
 Par choix éthique et citoyen, ce jeu est entièrement **NON COMMERCIAL**. Son code source est ouvert, sa diffusion est libre, et son intégrité est protégée.
 
 *   **Vous êtes un citoyen, un enseignant, un joueur, un fresqueur ?**  
     Le jeu vous appartient. Téléchargez le kit "Print & Play" gratuitement, imprimez-le, découpez-le et jouez-y en famille, en classe ou entre amis. Échouez collectivement, triomphez en solitaire, mais apprenez et riez de l'absurdité de nos contradictions.
 
-<img width="149" height="208" alt="carte_verso_poker - 20%" src="https://github.com/user-attachments/assets/b1ebe3a7-10d1-4b37-99c5-cf724cb3af6f" />
+<img width="149" height="208" alt="carte_verso_poker - 20%" src="https://github.com/eco-enro/Voyage-vers-Mars/releases/download/Avant-2026-1/carte_verso.mm.gemini.reversible.png" />
 
 ---
 
