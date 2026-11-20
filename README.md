@@ -1,9 +1,7 @@
 # 🚀 VOYAGE VERS MARS
 
-
-[![Téléchargements du jeu](https://shields.io)](**[Releases](https://github.com/eco-enro/Voyage-vers-Mars/releases/tag/Avant-2026-1))
-
 > **Un jeu de cartes stratégique, narratif et métrologique pour 2 à 6 joueurs.**  
+> Quatre époques.
 > ⏳ *Durée d’une partie : 30 minutes à 4 heures* | 👥 *Âge : dès 14 ans*
 
 ---
